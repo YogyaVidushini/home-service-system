@@ -46,7 +46,7 @@ function Home() {
                 ))}
               </div>
 
-              <Link to="/Services"
+              <Link to="/Contact"
                 className="inline-block px-6 py-2.5 bg-teal-500 hover:bg-teal-600
                            text-white text-sm font-semibold rounded-xl transition-all">
                 Contact Us
